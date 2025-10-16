@@ -1,4 +1,4 @@
-# Smart-Greenhouse-Farming-Automation-System
+# Smart Greenhouse Farming Automation System
 ## Overview
 This project  is a **Smart Greenhouse Farming Automation System** designed to monitor and control environmental conditions such as temperature, humidity, light and soil moisture. The system automates processes like watering, lighting, and ventilation to optimize plant growth.
 
